@@ -8,7 +8,7 @@
   "server": {
     "ip": "faiziismp.aternos.me",
     "port":47068,
-    "version": false,
+    "version": "1.20.4",
     "try-creative": false
   },
   "position": {
